@@ -1,0 +1,14 @@
+com\example\fleet\repository\VehicleRepository.class
+com\example\fleet\model\FourWheeler.class
+com\example\fleet\model\Car.class
+com\example\fleet\model\Truck.class
+com\example\fleet\model\Vehicle.class
+com\example\fleet\FleetApplication.class
+com\example\fleet\model\TwoWheeler.class
+com\example\fleet\FleetController.class
+com\example\fleet\model\Bus.class
+com\example\fleet\model\SecurityMeasure.class
+com\example\fleet\FleetManager.class
+com\example\fleet\repository\InMemoryVehicleRepository.class
+com\example\fleet\model\Motorcycle.class
+com\example\fleet\model\Scooter.class
